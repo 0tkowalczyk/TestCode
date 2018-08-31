@@ -20,5 +20,5 @@ console.log(greeting);
 //make your own message similar to what is above.
 let convo2 = "See you ";
 let convo3 = "tomorrow ";
-const farawell = convo2 + convo3 + name
+const farawell = convo2 + convo3
 console.log(farawell);
